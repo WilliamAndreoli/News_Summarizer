@@ -16,7 +16,7 @@ O **News Summarizer** é uma aplicação que utiliza inteligência artificial pa
 
 Durante o desenvolvimento deste projeto, aprendi a:
 
-- Integrar diferentes APIs para coletar e processar dados em tempo real, incluindo o suo da Assistant API da OpenAI.
+- Integrar diferentes APIs para coletar e processar dados em tempo real, incluindo o uso da Assistant API da OpenAI.
 - Utilizar o Streamlit para criar interfaces de usuário interativas e responsivas.
 - Trabalhar com variáveis de ambiente para proteger informações sensíveis, como chaves de API.
 - Implementar técnicas de manipulação de dados e processamento de texto para gerar resumos coerentes e informativos.
